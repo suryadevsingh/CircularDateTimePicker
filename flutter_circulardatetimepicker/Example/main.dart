@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:fluttercirculardatetimepicker/fluttercirculardatetimepicker.dart';
 
+
 void main() {
   runApp(MyApp());
 }
@@ -13,8 +14,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-          primarySwatch: Colors.deepOrange
+          primarySwatch: Colors.deepOrange,
       ),
+      title: "CircularDateTimePicker Demo",
       home: DateTimePicker(),
     );
   }
