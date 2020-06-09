@@ -3,7 +3,7 @@ A new Flutter package CircularDateTimePicker Created by suryadevsingh.
 
 ### Demo
  <p>
-     <img src="https://github.com/suryadevsingh/CircularDateTimePicker/blob/master/DEMO.gif?raw=true"/>
+     <img src="https://github.com/suryadevsingh/CircularDateTimePicker/blob/master/demmo.gif?raw=true"/>
  
  </p>
 
